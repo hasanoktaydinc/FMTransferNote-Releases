@@ -1,5 +1,21 @@
 # Changelog
 
+## v1.0.0
+
+First full release. / İlk tam sürüm.
+
+- **Ekip / Staff (new tab)**: the coaching, medical and scouting groups against the club's limits; each job with its people, age and contract; the game's rating per training category with the coaches on it; alerts for missing coaches, empty jobs, overloaded coaches and contracts running out; contracts by year; the club's other teams and youth.
+  **Ekip (yeni sekme)**: antrenman, sağlık ve gözlem gruplarının kulüp kotasına göre durumu; her görevde kişiler, yaş ve sözleşme; her antrenman başlığında oyunun puanı ve o başlıktaki hocalar; eksik hoca, boş görev, yükü fazla hoca ve biten sözleşme uyarıları; yıllara göre sözleşmeler; diğer takımlar ve altyapı.
+- **Hiring plan / Alım Planı**: what to hire first in each group within the free places; one coach for two categories that ask for the same attribute when places are short; when a group is full, whom to replace. One click adds a suggestion to your staff needs.
+  Her grupta boş yerlere göre önce kimin alınacağı; yer azsa aynı özelliği isteyen iki başlık tek hocaya; kota doluysa kimin yerine. Tek tıkla ihtiyaçlara eklenir.
+- **Scouting coverage / Gözlem kapsamı**: the nations of your watched players that no scout knows.
+  Takip ettiğin oyuncuların, hiçbir gözlemcinin bilmediği ülkeleri.
+- **Staff needs and notes / Ekip ihtiyaçları ve notlar**: your own list of staff to find, and a note per person.
+  Bulmak istediğin personelin listesi ve her kişiye not.
+- **Cups / Kupalar**: each cup gets its own pitch and registration plan, checked rule by rule; club- and association-trained players marked; drag players on and off the pitch.
+  Her kupanın kendi sahası ve kayıt planı, kural kural kontrol; kulüpte ve ülkede yetişen oyuncular işaretli; oyuncular sahaya sürüklenip çıkarılır.
+- Many smaller fixes to the analysis, menus and the pitch. / Analiz, menüler ve sahada birçok küçük düzeltme.
+
 ## v0.95.18 (pre-release / ön sürüm)
 
 First shared pre-release; v1.0.0 will be the first full release. / İlk paylaşılan ön sürüm; v1.0.0 ilk tam sürüm olacak.
