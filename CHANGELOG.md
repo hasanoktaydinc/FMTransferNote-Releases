@@ -20,6 +20,8 @@ First full release. / İlk tam sürüm.
   "Altyapı: hazır" listesinde altyapı ekibinin A takıma hazır dediği gençler de var.
 - **Player levels setting / Oyuncu seviyeleri ayarı**: turn off the level badge (Distinguished, Capable…) in the squad, watch and picking lists; on by default, the analysis always shows it.
   Kadro, takip ve seçim listelerinde seviye rozetini (Seçkin, Yetkin…) kapatabilirsin; varsayılan açık, analizde hep görünür.
+- **Language files / Dil dosyaları**: every text is in `BepInEx/plugins/FMTransferNotes/lang/<code>.json` (written on first start). Change a line and it shows in a few seconds; your lines survive updates. A new file (e.g. `ru.json`) with `Language = ru` in the config adds a language.
+  Tüm metinler `lang/<kod>.json` dosyalarında (ilk açılışta oluşur). Bir satırı değiştir, birkaç saniyede görünür; senin satırların güncellemede kaybolmaz. Yeni bir dosya (ör. `ru.json`) ve config'de `Language = ru` ile yeni dil eklenir.
 - Many smaller fixes to the analysis, menus and the pitch. / Analiz, menüler ve sahada birçok küçük düzeltme.
 
 ## v0.95.18 (pre-release / ön sürüm)
