@@ -21,7 +21,7 @@ Her FM oyuncusu bir noktada defteri kalemi ya da bilgisayardaki not defterini a�
 - 8 dil (metinler `lang/*.json` dosyalarında, değiştirilebilir), açık / koyu tema, oyuncu yüzleri.
 
 **CA ve PA sayısı göstermez**
-Eklenti oyuncu arama aracı değildir. Oyuncuları yalnızca oyunun kendi takip listelerinden ve senin kadrondan alır; hiçbir yerde CA veya PA sayısı göstermez. Listelerde "Yetkin", "Seçkin" gibi geniş bir seviye etiketi görünür; bu etiket Ayarlar'dan kapatılabilir (Analiz'de kalır). Bazı oyuncularda etiket gözlemci yıldızlarından bir tahmindir (~ ile gösterilir).
+Eklenti oyuncu arama aracı değildir. Oyuncuları yalnızca oyunun kendi takip listelerinden ve senin kadrondan alır; hiçbir yerde CA veya PA sayısı göstermez. Listelerde "Yetkin", "Seçkin" gibi geniş bir seviye etiketi (gençlerde analizde ulaşabilecekleri seviye de) görünür; bu etiket Ayarlar'dan kapatılabilir (Analiz'de kalır). Bazı oyuncularda etiket gözlemci yıldızlarından bir tahmindir (~ ile gösterilir).
 
 **Kurulum**
 1. FM27 için BepInEx 6 (IL2CPP) kurulu olmalı.
@@ -43,7 +43,7 @@ Eklentinin alt bilgisindeki *Sorun Bildir* bağlantısını kullan.
 At some point every FM player has opened a notebook, or Notepad on the computer, to write down transfer plans and tactics. FM Transfer Notes puts that notebook inside the game: click a small round button (or press **Ctrl+Shift+T**) and it opens; drag it anywhere and it stays there. Plan without leaving the game.
 
 **What it does**
-- **Incoming**: needs by position in three priorities (Must have, Nice to have, Could have). Add targets to each: from the game's shortlists, the open profile, or typed. Nationality, age and league rules (foreign / homegrown quotas) are counted together with your plans.
+- **Incoming**: needs by position in three priorities (Must have, Nice to have, Optional). Add targets to each: from the game's shortlists, the open profile, or typed. Nationality, age and league rules (foreign / homegrown quotas) are counted together with your plans.
 - **Outgoing**: players to sell, loan or release. It follows what happens in the game, and can update the game's transfer list too (it asks every time).
 - **Pitch**: this season's and next season's squad on the league's formation. A separate registration plan for every cup, checked rule by rule.
 - **Analysis**: contracts, surplus, backups, depth and youngsters ready for the first team.
@@ -53,7 +53,7 @@ At some point every FM player has opened a notebook, or Notepad on the computer,
 - 8 languages (texts in editable `lang/*.json` files), light / dark theme, player pictures.
 
 **No CA or PA numbers**
-It is not a player search tool. Players come only from the game's own shortlists and from your squad, and no CA or PA number is shown anywhere. Lists show a broad level tag such as "Capable" or "Distinguished"; it can be turned off in Settings (the analysis keeps it). For some players the tag is an estimate from the scouts' stars (shown with ~).
+It is not a player search tool. Players come only from the game's own shortlists and from your squad, and no CA or PA number is shown anywhere. Lists show a broad level tag such as "Competent" or "Distinguished" (for young players the analysis also shows the band they could reach); it can be turned off in Settings (the analysis keeps it). For some players the tag is an estimate from the scouts' stars (shown with ~).
 
 **Install**
 1. BepInEx 6 (IL2CPP) must be installed for FM27.
