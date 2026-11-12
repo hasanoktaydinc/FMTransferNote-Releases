@@ -14,6 +14,8 @@ First full release. / İlk tam sürüm.
   Bulmak istediğin personelin listesi ve her kişiye not.
 - **Cups / Kupalar**: each cup gets its own pitch and registration plan, checked rule by rule; club- and association-trained players marked; drag players on and off the pitch.
   Her kupanın kendi sahası ve kayıt planı, kural kural kontrol; kulüpte ve ülkede yetişen oyuncular işaretli; oyuncular sahaya sürüklenip çıkarılır.
+- **Scratchpad / Karalama**: a blank page for free notes, like a notepad, kept with the career (the pencil icon at the top).
+  Serbest notlar için boş bir sayfa, not defteri gibi; kariyerle birlikte saklanır (üstteki kalem ikonu).
 - **Analysis / Analiz**: "Youth: ready" also lists the young players your youth staff call ready for the first team.
   "Altyapı: hazır" listesinde altyapı ekibinin A takıma hazır dediği gençler de var.
 - Many smaller fixes to the analysis, menus and the pitch. / Analiz, menüler ve sahada birçok küçük düzeltme.
