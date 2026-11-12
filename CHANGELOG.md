@@ -18,6 +18,8 @@ First full release. / İlk tam sürüm.
   Serbest notlar için boş bir sayfa, not defteri gibi; kariyerle birlikte saklanır (kalem sekmesi).
 - **Analysis / Analiz**: "Youth: ready" also lists the young players your youth staff call ready for the first team.
   "Altyapı: hazır" listesinde altyapı ekibinin A takıma hazır dediği gençler de var.
+- **Player levels setting / Oyuncu seviyeleri ayarı**: turn off the level badge (Distinguished, Capable…) in the squad, watch and picking lists; on by default, the analysis always shows it.
+  Kadro, takip ve seçim listelerinde seviye rozetini (Seçkin, Yetkin…) kapatabilirsin; varsayılan açık, analizde hep görünür.
 - Many smaller fixes to the analysis, menus and the pitch. / Analiz, menüler ve sahada birçok küçük düzeltme.
 
 ## v0.95.18 (pre-release / ön sürüm)
