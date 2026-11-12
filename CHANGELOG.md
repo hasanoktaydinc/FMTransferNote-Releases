@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.1
+
+- **Skins / Skins**: with some skins the plugin found no team, so the squad, shortlists and rules stayed empty. It now finds the manager's team another way when that happens.
+  Bazı skin'lerde eklenti takımı bulamıyor, kadro, takip listeleri ve kurallar boş kalıyordu. Artık takımı başka bir yoldan buluyor.
+
 ## v1.0.0
 
 First full release. / İlk tam sürüm.
