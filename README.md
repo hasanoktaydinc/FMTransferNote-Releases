@@ -21,7 +21,7 @@ Her FM oyuncusu bir noktada defteri kalemi ya da bilgisayardaki not defterini a�
 - 8 dil (metinler `lang/*.json` dosyalarında, değiştirilebilir), açık / koyu tema, oyuncu yüzleri.
 
 **CA ve PA sayısı göstermez**
-Eklenti oyuncu arama aracı değildir. Oyuncuları yalnızca oyunun kendi takip listelerinden ve senin kadrondan alır; hiçbir yerde CA veya PA sayısı göstermez. Listelerde "Yetkin", "Seçkin" gibi geniş bir seviye etiketi görünür; bu etiket Ayarlar'dan kapatılabilir (Analiz'de kalır). Gözlemci raporu olmayan oyuncularda etiket yıldızlardan tahmindir (~ ile gösterilir).
+Eklenti oyuncu arama aracı değildir. Oyuncuları yalnızca oyunun kendi takip listelerinden ve senin kadrondan alır; hiçbir yerde CA veya PA sayısı göstermez. Listelerde "Yetkin", "Seçkin" gibi geniş bir seviye etiketi görünür; bu etiket Ayarlar'dan kapatılabilir (Analiz'de kalır). Bazı oyuncularda etiket gözlemci yıldızlarından bir tahmindir (~ ile gösterilir).
 
 **Kurulum**
 1. FM27 için BepInEx 6 (IL2CPP) kurulu olmalı.
@@ -53,7 +53,7 @@ At some point every FM player has opened a notebook, or Notepad on the computer,
 - 8 languages (texts in editable `lang/*.json` files), light / dark theme, player pictures.
 
 **No CA or PA numbers**
-It is not a player search tool. Players come only from the game's own shortlists and from your squad, and no CA or PA number is shown anywhere. Lists show a broad level tag such as "Capable" or "Distinguished"; it can be turned off in Settings (the analysis keeps it). For players without a scout report the tag is an estimate from the stars (shown with ~).
+It is not a player search tool. Players come only from the game's own shortlists and from your squad, and no CA or PA number is shown anywhere. Lists show a broad level tag such as "Capable" or "Distinguished"; it can be turned off in Settings (the analysis keeps it). For some players the tag is an estimate from the scouts' stars (shown with ~).
 
 **Install**
 1. BepInEx 6 (IL2CPP) must be installed for FM27.
