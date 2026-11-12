@@ -1,9 +1,9 @@
 # Changelog
 
-## v1.0.1
+## v1.0.2
 
-- **Skins / Skins**: with some skins the plugin found no team, so the squad, shortlists and rules stayed empty. It now finds the manager's team another way when that happens.
-  Bazı skin'lerde eklenti takımı bulamıyor, kadro, takip listeleri ve kurallar boş kalıyordu. Artık takımı başka bir yoldan buluyor.
+- **Other mods / skins**: with some other mods installed the plugin read the wrong game data store, so it found no team and the squad, shortlists and rules stayed empty. It now always reads the game's own store, and finds the manager's team another way if a skin hides the usual one.
+  Başka modlar kuruluyken eklenti oyunun yanlış veri deposunu okuyordu; takımı bulamıyor, kadro, takip listeleri ve kurallar boş kalıyordu. Artık her zaman oyunun kendi deposunu okuyor; bir skin olağan yolu gizlerse takımı başka bir yoldan buluyor.
 
 ## v1.0.0
 
